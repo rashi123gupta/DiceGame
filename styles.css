@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(78, 89, 100);
+}
+
+.container {
+    color: rgb(97, 199, 165);
+    text-align: center;
+}
+
+.container h1 {
+    font-family: 'Lemon', serif;
+    font-size: 60px;
+}
+
+.dice {
+    font-family: 'Genos', sans-serif;
+    font-size: 40px;
+    display: inline-flex;
+}
+
+.dice img {
+    height: 250px;
+    margin: 40px;
+}
+footer {
+    text-align: center;
+    margin: 40px;
+    font-size: 30px;
+    color: rgb(224, 219, 219);
+}
